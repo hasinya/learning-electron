@@ -1,0 +1,11 @@
+#topMenuBtns{
+    position: absolute;
+    right: 20px;
+}
+.topMenuBtn{
+    border: none;
+    outline: none;
+    background: transparent;
+    margin: 0 5px;
+    color: #4e73df;
+}
