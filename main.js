@@ -11,7 +11,7 @@ function createWindow(){
         minHeight: 640,
         closable: true,
         darkTheme: true,
-        // frame: false,
+        frame: false,
         icon: path.join(__dirname, './ico.ico'),
         webPreferences: {
             nodeIntegration: true,
